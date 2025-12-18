@@ -80,7 +80,6 @@
     📊 Analytics Dashboard
     Track user engagement, revenue, and booking trends.
 
-🧑‍💻 Author-Divyam Saraf
-    Full-Stack Developer | Passionate about clean UI and scalable backend systems
-    divyamsaraf192@gmail.com | https://www.linkedin.com/in/divyam-saraf-9a2057318
+🧑‍💻 Author-Mahakk Gupta
+    mahakgupta985@gmail.com
     
